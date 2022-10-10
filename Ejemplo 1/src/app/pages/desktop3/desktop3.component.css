@@ -1,0 +1,133 @@
+:host { 
+  display: contents; 
+}
+.desktop3-container {
+  min-height: 100vh;
+}
+.desktop3-desktop3 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop3-image3 {
+  top: 633px;
+  left: 1298px;
+  width: 160px;
+  height: 396px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop3-image2 {
+  top: 633px;
+  left: -37px;
+  width: 181px;
+  height: 416px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop3-rectangle1 {
+  top: 359px;
+  left: 44px;
+  width: 418px;
+  height: 378px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+}
+.desktop3-text {
+  top: 445px;
+  left: 110px;
+  color: rgba(255, 255, 255, 1);
+  width: 286px;
+  height: auto;
+  position: absolute;
+  font-size: 120px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop3-rectangle6 {
+  top: 359px;
+  left: 512px;
+  width: 418px;
+  height: 378px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+}
+.desktop3-text2 {
+  top: 421px;
+  left: 621px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 300px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop3-rectangle7 {
+  top: 359px;
+  left: 980px;
+  width: 418px;
+  height: 378px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+}
+.desktop3-text3 {
+  top: 466px;
+  left: 1116px;
+  color: rgba(255, 255, 255, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 300px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop3-image1 {
+  top: 0px;
+  left: 1028px;
+  width: 412px;
+  height: 232px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop3-image4 {
+  top: 26px;
+  left: 197px;
+  width: 174px;
+  height: 105px;
+  position: absolute;
+  border-color: transparent;
+}
