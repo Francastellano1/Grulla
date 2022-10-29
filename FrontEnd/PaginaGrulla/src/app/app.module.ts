@@ -14,6 +14,9 @@ import { PaginaprincipalComponent } from './components/paginaprincipal/paginapri
 import { ElegirGradoComponent } from './components/paginaprincipal/elegir-grado.component';
 import { PrimerGradoComponent } from './components/primer-grado/primer-grado.component';
 import { HomeComponent } from './components/home/home.component';
+import { SegundoGradoComponent } from './components/segundo-grado/segundo-grado.component';
+import { TercerGradoComponent } from './components/tercer-grado/tercer-grado.component';
+import { Resta1Component } from './components/primer-grado/resta1/resta1.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +27,9 @@ import { HomeComponent } from './components/home/home.component';
     ElegirGradoComponent,
     PrimerGradoComponent,
     HomeComponent,
+    SegundoGradoComponent,
+    TercerGradoComponent,
+    Resta1Component
   ],
   imports: [
     BrowserModule,
