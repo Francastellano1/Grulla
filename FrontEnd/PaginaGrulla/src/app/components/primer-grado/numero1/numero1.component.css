@@ -4,22 +4,38 @@
 	box-sizing: border-box ;
 }
 body{
-	background: url("../../../../assets/imagenes/34.png");
 	text-align: center;
+	color: #262626;
+	background: url("../../../../assets/imagenes/imagen2.jpg")
+
 }
-h1{
-	padding: 30px;
+
+h1{ 
+	font-size: 50px;
+	background-color: lightpink;
+	text-align: center;
+	color: #000;
+	max-width:350px;
+	margin:auto;
+	margin-top: 30px;
+	border: 2px solid lightpink;
+	border-radius: 10px;
+	display: flex;
+	padding: 10px 0;
+	justify-content: center;
+	
+
 }
 .container{
-	color: white;
-	background: url("../../../../assets/imagenes/pizon.jpg");
+	background-color: brown;
+	color: red;
 	max-width: 700px;
 	margin: auto;
-	border: 2px solid white;
+	margin-top: 30px ;
+	border: 2px solid #000;
 	border-radius: 20px;
 	display: flex;
-	padding: 60px 0 ; 
-
+	padding: 50px 0 ; 
 }
 .izquierdo{
 	width: 70%;
@@ -52,3 +68,6 @@ h1{
 .opcion:hover{
 	background-color: #262626;
 }
+.numeros{background:href="aple.jpg"
+};
+	 

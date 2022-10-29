@@ -2,18 +2,16 @@ import { Component, OnInit } from '@angular/core';
 import { CargarScriptsService} from '../../../cargar-scripts.service';
 
 @Component({
-  selector: 'app-resta',
-  templateUrl: 'resta1.component.html',
-  styleUrls: ['./resta1.component.css']
+  selector: 'app-numero1',
+  templateUrl: './numero1.component.html',
+  styleUrls: ['./numero1.component.css']
 })
-export class Resta1Component implements OnInit {
+export class Numero1Component implements OnInit {
 
   constructor( private _CargaScripts:CargarScriptsService ) {
-    _CargaScripts.Carga(["resta"]);
+    _CargaScripts.Carga(["numeros1"]);
    }
-
   ngOnInit(): void {
   }
 
 }
-
