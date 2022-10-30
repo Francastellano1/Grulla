@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { CargarScriptsService} from '../../../cargar-scripts.service';
+
 
 @Component({
   selector: 'app-suma2',
@@ -7,8 +9,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Suma2Component implements OnInit {
 
-  constructor() { }
-
+  constructor( private _CargaScripts:CargarScriptsService ) {
+    _CargaScripts.Carga(["suma2"]);
+   }
   ngOnInit(): void {
   }
 
