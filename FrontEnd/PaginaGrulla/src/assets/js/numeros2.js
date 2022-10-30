@@ -13,7 +13,7 @@ function comenzar(){
 	txt_msj.innerHTML = "";
 	num1 = Math.round(Math.random()*10);
 	num2 = Math.round(Math.random()*9);
-	respuesta = >;
+	respuesta =>{
 	txt_suma.innerHTML = num1 + " > " + num2;
 	if (num1 > num2) {
 		respuesta = num1 > num2;
@@ -30,9 +30,9 @@ function comenzar(){
 
 	
 	}
-	
-	
 }
+	
+
 function controlarRespuesta(opcionElegida){
 	txt_resultado.innerHTML = opcionElegida.innerHTML;
 
