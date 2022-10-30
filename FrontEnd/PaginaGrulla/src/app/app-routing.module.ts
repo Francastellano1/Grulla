@@ -8,6 +8,9 @@ import { TercerGradoComponent } from './components/tercer-grado/tercer-grado.com
 import { Resta1Component } from './components/primer-grado/resta1/resta1.component';
 import { Suma1Component } from './components/primer-grado/suma1/suma1.component';
 import { Numero1Component } from './components/primer-grado/numero1/numero1.component';
+import { Resta2Component } from './components/segundo-grado/resta2/resta2.component';
+import { Suma2Component } from './components/segundo-grado/suma2/suma2.component';
+import { Numero2Component } from './components/segundo-grado/numero2/numero2.component'
 
 const routes: Routes = [
   {path:'elegirgrado', component: ElegirGradoComponent},
@@ -18,6 +21,9 @@ const routes: Routes = [
   {path:'primer-grado/resta1', component: Resta1Component},
   {path:'primer-grado/suma1', component: Suma1Component},
   {path:'primer-grado/numero1', component: Numero1Component},
+  {path:'segundo-grado/resta2', component: Resta2Component},
+  {path:'segundo-grado/suma2', component: Suma2Component},
+  {path:'segundo-grado/numero2', component: Numero2Component},
 ];
 
 @NgModule({
