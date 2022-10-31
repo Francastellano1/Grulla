@@ -3,11 +3,14 @@
 	padding: 0;
 	box-sizing: border-box ;
 }
-body{
+.row{
 	text-align: center;
 	color: #262626;
-	background: url("../../../../assets/imagenes/imagen2.jpg")
-
+	background: url("../../../../assets/imagenes/imagen2.jpg");
+	background-size: 100%, 100%;	
+	font-size:flex;
+	background-attachment: fixed;	
+	height: 100vh;
 }
 
 h1{ 
@@ -28,8 +31,7 @@ h1{
 }
 .container{
 	background: url("../../../../assets/imagenes/PIH.jpg");
-	color: black;
-	max-width: 700px;
+	color: white;
 	margin: auto;
 	margin-top: 30px ;
 	border: 2px solid #000;
