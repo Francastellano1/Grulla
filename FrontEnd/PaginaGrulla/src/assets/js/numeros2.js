@@ -1,4 +1,5 @@
-var num1, num2;
+var num1;
+var num2;
 var respuesta;
 var indiceOpCorrecta;
 
@@ -9,7 +10,7 @@ txt_msj = document.getElementById("msj");
 txt_resultado = document.getElementById("resultado");
 
 function comenzar(){
-	txt_resultado.innerHTML = "?"; 
+	txt_resultado.innerHTML = "?"; 	
 	txt_msj.innerHTML = "";
 	num1 = Math.round(Math.random()*10);
 	num2 = Math.round(Math.random()*9);

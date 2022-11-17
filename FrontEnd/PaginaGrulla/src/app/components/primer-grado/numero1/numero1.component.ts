@@ -9,7 +9,7 @@ import { CargarScriptsService} from '../../../cargar-scripts.service';
 export class Numero1Component implements OnInit {
 
   constructor( private _CargaScripts:CargarScriptsService ) {
-    _CargaScripts.Carga(["numeros1"]);
+    _CargaScripts.Carga(["numeros"]);
    }
   ngOnInit(): void {
   }
