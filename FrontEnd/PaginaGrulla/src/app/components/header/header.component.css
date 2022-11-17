@@ -1,0 +1,154 @@
+:host { 
+    display: contents; 
+  }
+  .desktop1-container {
+    min-height: 100vh;
+  }
+  .desktop1-desktop1 {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .desktop1-rectangle1 {
+    top: 487px;
+    left: 337px;
+    width: 767px;
+    height: 192px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .desktop1-rectangle11 {
+    top: 0px;
+    left: 0px;
+    width: 767px;
+    height: 192px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .desktop1-text {
+    top: 523px;
+    left: 519px;
+    color: rgba(140, 136, 136, 1);
+    width: 661px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Bubbler One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop1-rectangle2 {
+    top: 720px;
+    left: 509px;
+    width: 451px;
+    height: 121px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .desktop1-c-o-m-e-n-z-a-r {
+    top: 758px;
+    left: 605px;
+    width: 389px;
+    height: 101px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .desktop1-text2 {
+    color: rgba(0, 0, 0, 1);
+    width: 267px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Bubblegum Sans;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop1-descarga1 {
+    top: 102px;
+    left: 841px;
+    width: 388px;
+    height: 291px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .desktop1-descarga2 {
+    top: 120px;
+    left: 121px;
+    width: 388px;
+    height: 291px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .desktop1-grulla {
+    top: 165px;
+    left: 485px;
+    width: 471px;
+    height: 125px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .desktop1-text4 {
+    color: rgba(0, 0, 0, 1);
+    width: 471px;
+    height: auto;
+    position: absolute;
+    font-size: 128px;
+    align-self: auto;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    font-style: Regular;
+    text-align: left;
+    font-family: Bubblegum Sans;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop1-depositphotos357405328stockillustrationfontdesignf {
+    top: 830px;
+    left: 1133px;
+    width: 290px;
+    height: 168px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .desktop1-signossumayresta1 {
+    top: 783px;
+    left: 0px;
+    width: 453px;
+    height: 215px;
+    position: absolute;
+    border-color: transparent;
+  }
