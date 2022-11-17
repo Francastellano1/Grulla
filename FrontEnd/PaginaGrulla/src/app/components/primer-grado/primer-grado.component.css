@@ -1,10 +1,9 @@
-body{
+.row{
 	text-align: center;
 	color: #262626;
-	background: url("../../../assets/imagenes/15.jpg");
-	background-repeat: no-repeat;	
-	font-size:flex;
-	background-size: 100%;
+	background: url("../../../assets/imagenes/imagen3.jpg");
+	background-attachment: fixed;	
+	height: 100vh;
 }
 .container{
     height: 100vh;

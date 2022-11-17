@@ -22,6 +22,10 @@ import { Numero1Component } from './components/primer-grado/numero1/numero1.comp
 import { Suma2Component } from './components/segundo-grado/suma2/suma2.component';
 import { Resta2Component } from './components/segundo-grado/resta2/resta2.component';
 import { Numero2Component } from './components/segundo-grado/numero2/numero2.component';
+import { MultiplicacionComponent } from './components/tercer-grado/multiplicacion/multiplicacion.component';
+import { DivisionComponent } from './components/tercer-grado/division/division.component';
+import { GeometriaComponent } from './components/tercer-grado/geometria/geometria.component';
+import { ProblemasComponent } from './components/tercer-grado/problemas/problemas.component';
 
 @NgModule({
   declarations: [
@@ -39,7 +43,11 @@ import { Numero2Component } from './components/segundo-grado/numero2/numero2.com
     Numero1Component,
     Suma2Component,
     Resta2Component,
-    Numero2Component
+    Numero2Component,
+    MultiplicacionComponent,
+    DivisionComponent,
+    GeometriaComponent,
+    ProblemasComponent
   ],
   imports: [
     BrowserModule,

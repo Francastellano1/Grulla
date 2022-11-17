@@ -1,7 +1,9 @@
-body{
+.row{
 	text-align: center;
 	color: #262626;
-	background: url("../../../assets/imagenes/imagen3.jpg")
+	background: url("../../../assets/imagenes/imagen3.jpg");
+	background-attachment: fixed;	
+	height: 100vh;
 }
 
 .num {
